@@ -1,0 +1,37 @@
+.div1 {
+    height: 50px;
+    width: 600px;
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: white;
+}
+
+.h3 {
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: erdana, helvetica, arial, sans-serif;
+}
+
+.div1 a {
+    color: green;
+    text-decoration: none;
+    font-size: 20px;
+    vertical-align: middle;
+    padding-right: 60px;
+    padding-left: 10px;
+}
+
+.div1 a:hover {
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.div2 {
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-top: -30px;
+    /* border: 1px solid black; */
+}
